@@ -24,4 +24,4 @@ Features:
 4) Time and Space complexity of algorithm are being showed along side running.
 
 
-Take a look at live version: 
+Take a look at live version: https://aquamarine-mermaid-15c2d1.netlify.app

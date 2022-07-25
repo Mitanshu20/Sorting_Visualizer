@@ -3,6 +3,10 @@ DSA Project #1
 Sorting Visualizer
 A web application showcasing the inner workings of sorting algorithms.
 
+## Demo
+
+![image](https://user-images.githubusercontent.com/90372090/180800485-40c31078-337c-4e34-9cd9-3fce24349298.png)
+
 Implemented algorithms:
 1) Bubble sort
 2) Selection sort
